@@ -1,0 +1,4 @@
+[
+   { "keys": ["alt+pageup"], "command": "scroll_other_pane", "args": {"cmd": "scroll_lines", "amount": 40}},
+   { "keys": ["alt+pagedown"], "command": "scroll_other_pane", "args": {"cmd": "scroll_lines", "amount": -40}}
+]
